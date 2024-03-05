@@ -3,6 +3,9 @@ package ru.inno.task;
 //import java.util.HashMap;
 
 public class Main {
+
+    //тестовая строка
+
     public static void main(String[] args) throws NothingToUndo {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
